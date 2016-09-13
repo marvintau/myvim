@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/yuetao/GitHub/Aside/server/controllers'
+let g:netrw_dirhist_2='/Users/yuetao/GitHub/Aside/views'
+let g:netrw_dirhist_3='/Users/yuetao/GitHub/Aside/client'
+let g:netrw_dirhist_4='/Users/yuetao/.vim/bundle/vim-gas'
